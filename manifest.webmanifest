@@ -1,0 +1,16 @@
+{
+  "name": "Caisse des fonds",
+  "short_name": "Fonds",
+  "description": "Combien de briques descendre le palonnier de la caisse des fonds, selon la hauteur de la pièce.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEF0F1",
+  "theme_color": "#EEF0F1",
+  "icons": [
+    {"src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
